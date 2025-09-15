@@ -1,0 +1,20 @@
+# IDE files
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# App caches
+app/**/__pycache__/
+app/core/__pycache__/
+app/models/__pycache__/
+app/repos/__pycache__/
+app/schemas/**/__pycache__/
+app/services/__pycache__/
+app/tests/**/__pycache__/
+app/views/__pycache__/
+
+# Environment files
+.env
+.envrc
